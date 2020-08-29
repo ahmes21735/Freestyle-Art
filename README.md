@@ -1,0 +1,2 @@
+# Freestyle-Art
+This project was done for a school assignment. The goal of this assignment was to create any Python drawing of your choosing, giving students a chance to showcase their imagination and creativity. I decided to create a sunflower field, using a variety of drawing techniques such as random patterns, smoothed polygons, lines, ovals, rectangles, etc. I worked very hard to make the scene visually captivating and I am very proud of the outcome.
